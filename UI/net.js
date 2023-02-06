@@ -1,4 +1,4 @@
-import {joinRoom} from 'https://cdn.skypack.dev/trystero'
+import {joinRoom} from 'https://cdn.skypack.dev/trystero/ipfs'
 const baseConfig = {appId: 'HelpboardLegacy'}
 
 const net = {
